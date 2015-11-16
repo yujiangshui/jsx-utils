@@ -1,0 +1,24 @@
+{
+  "name": "jsx-utils",
+  "version": "0.0.1",
+  "description": "Some utils make your react jsx code better.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yujiangshui/jsx-utils.git"
+  },
+  "keywords": [
+    "jsx",
+    "react",
+    "utils"
+  ],
+  "author": "yujiangshui <yujiangshui@gmail.com> (http://yujiangshui.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yujiangshui/jsx-utils/issues"
+  },
+  "homepage": "https://github.com/yujiangshui/jsx-utils"
+}
