@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/yujiangshui/jsx-utils/issues"
   },
-  "homepage": "https://github.com/yujiangshui/jsx-utils"
+  "homepage": "https://github.com/yujiangshui/jsx-utils",
+  "dependencies": {
+    "classnames": "^2.2.0"
+  }
 }
