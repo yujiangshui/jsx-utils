@@ -7,7 +7,11 @@
 var ms = require('./utils/merge-style');
 var mr = require('./utils/multi-return');
 
+// @JedWatson MIT https://github.com/JedWatson/classnames
+var classnames = require('classnames');
+
 module.exports = {
   ms: ms,
-  mr: mr
+  mr: mr,
+  classnames: classnames
 }

@@ -22,5 +22,6 @@
   },
   "homepage": "https://github.com/yujiangshui/jsx-utils",
   "dependencies": {
+    "classnames": "^2.2.0"
   }
 }
