@@ -5,7 +5,9 @@
  */
 
 var ms = require('./utils/merge-style');
+var mr = require('./utils/multi-return');
 
 module.exports = {
-  ms: ms
+  ms: ms,
+  mr: mr
 }
