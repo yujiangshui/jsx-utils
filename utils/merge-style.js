@@ -38,7 +38,7 @@ if (!Object.assign) {
  *
  * Example:
  *  <Button
- *    style={m(
+ *    style={ms(
  *      styles.button,
  *      this.state.disabled && styles.disabled,
  *      this.state.hover && !this.state.disabled && styles.hover
