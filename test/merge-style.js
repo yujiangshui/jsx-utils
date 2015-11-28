@@ -18,21 +18,25 @@ var testDataD = {
 
 describe('Test merge condition is true', function () {
   it('should merge A B C and equal D', function () {
+
     var result = ms(
       testDataA,
       true && testDataB,
       true && testDataC
     );
     result.should.deep.equal(testDataD);
+
   });
 });
 describe('Test merge condition is false', function () {
   it('should merge A but not B C then equal A', function () {
+
     var result = ms(
       testDataA,
       false && testDataB,
       false && testDataC
     );
     result.should.deep.equal(testDataA);
+
   });
 });
