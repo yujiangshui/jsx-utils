@@ -1,7 +1,16 @@
 # jsx-utils
+
 Some utils make your react jsx code better.
 
-# util list
+# Usage
+
+```
+npm install jsx-utils --save
+```
+
+then follow the example below.
+
+# Util list
 
 ## merge style
 
