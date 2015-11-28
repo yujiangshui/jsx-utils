@@ -4,7 +4,7 @@
   "description": "Some utils make your react jsx code better.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "homepage": "https://github.com/yujiangshui/jsx-utils",
   "dependencies": {
     "classnames": "^2.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1"
   }
 }
