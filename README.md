@@ -1,5 +1,7 @@
 # jsx-utils
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yujiangshui/jsx-utils.svg)](https://greenkeeper.io/)
+
 Some utils make your react jsx code better.
 
 # Usage
